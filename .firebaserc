@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "diplomado-2ddaa": {
+      "hosting": {
+        "primerangular": [
+          "diplomado-2ddaa"
+        ]
+      }
+    }
+  }
+}
